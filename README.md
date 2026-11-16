@@ -2,11 +2,9 @@
 
 ### Full-Stack Software Developer | Python & JavaScript
 
-Computer Engineering graduate focused on building practical web applications across frontend and backend technologies.
+I'm a Computer Engineering graduate focused on building practical web applications across frontend and backend technologies.
 
 I enjoy developing end-to-end applications, designing APIs, integrating databases, and solving real-world software problems.
-
----
 
 ## 🧰 Tech Stack
 
@@ -25,39 +23,42 @@ I enjoy developing end-to-end applications, designing APIs, integrating database
 **Tools**
 - Git, GitHub, Postman
 
----
-
-## 🚀 Featured Projects
-
-### Attendance Management System
-An end-to-end attendance management application built with the MERN stack.
-
-**Technologies:** MongoDB · Express.js · React.js · Node.js
-
-> Repository link will be added after the project repository is identified and reviewed.
-
-### Expense Tracker
-An expense-tracking application built with Python, FastAPI, and PostgreSQL.
-
-**Technologies:** Python · FastAPI · PostgreSQL
-
-> Repository link will be added after the project repository is identified and reviewed.
+## 🚀 Selected Projects
 
 ### AI-Powered Border Surveillance System
-An AI surveillance pipeline using YOLOv8 for object detection, Isolation Forest for anomaly scoring, and Streamlit for operational dashboards, with optional Azure integration.
+An AI-based surveillance pipeline using YOLOv8 for object detection, Isolation Forest for anomaly scoring, and Streamlit for operational dashboards, with optional Azure integration.
 
 **Technologies:** Python · YOLOv8 · PyTorch · OpenCV · Streamlit · Microsoft Azure
 
 [View repository](https://github.com/binitp2/Border-Surveillance-Project)
 
----
+### TikTok Ads Creative Flow
+A React frontend assignment that demonstrates a mock OAuth-style connection flow, conditional ad-creation steps, form validation, API integration patterns, and user-friendly error handling.
+
+**Technologies:** React · JavaScript · Context API
+
+[View repository](https://github.com/binitp2/tiktok-ads-creative-flow)
+
+### SQL Practice
+A topic-wise collection of SQL exercises covering queries, DDL, DML, joins, set operators, and advanced SQL practice.
+
+**Technologies:** SQL
+
+[View repository](https://github.com/binitp2/SQL-Practice)
+
+## 🛠️ Additional Projects
+
+- **Attendance Management System** — end-to-end MERN application.
+- **Expense Tracker** — Python, FastAPI, and PostgreSQL application.
+
+Repository links will be added once these projects are published and documented for public review.
 
 ## 🎯 Current Focus
 
 - Full-stack application development
 - Backend API design and integration
 - Relational database design and SQL
-- Building and documenting production-minded projects
+- Building, testing, and documenting real-world projects
 
 ## 🤝 Connect
 
